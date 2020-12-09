@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**davidemesso/davidemesso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 Unimore Scienze informatiche
 
-Here are some ideas to get you started:
+<details open>
+<summary>Open to see trophies.</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidemesso&theme=alduin" alt="Trophy" /></a>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+<summary>Open to see GitHub statistics.</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=davidemesso&show_icons=true&theme=alduin&count_private=true" alt="davidemesso's GitHub Statistics" /><a/>
+</details>
+
+<details open>
+<summary>Open to see language statistics.</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidemesso&theme=tokyonight" alt="Trophy" /></a>
+</details>

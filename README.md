@@ -14,5 +14,10 @@
 
 <details open>
 <summary>Open to see language statistics.</summary>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidemesso&theme=tokyonight" alt="Trophy" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidemesso&theme=tokyonight&langs_count=6" alt="Trophy" /></a>
+</details>
+
+<details open>
+<summary>Open to see Wakatime.</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=davidemesso&theme=tokyonight"/></a>
 </details>

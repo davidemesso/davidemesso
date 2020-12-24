@@ -19,5 +19,5 @@
 
 <details open>
 <summary>Open to see Wakatime.</summary>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=davidemesso&theme=tokyonight"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=davidemesso&layout=compact"/></a>
 </details>

@@ -26,6 +26,6 @@
 <details open>
   <summary>Open to see Wakatime.</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=davidemesso&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=davidemesso&layout=compact" alt="Wakatime"/>
   </a>
 </details>
